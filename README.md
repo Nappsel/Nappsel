@@ -5,7 +5,7 @@
 ##### BIO
 
 - 🏢 I'm currently working at **PECOM LLC.**
-- ⚙️ I use daily: `.js`, `.html`, `.scss`, `.svg`, `.psd`, `.ai`
+- ⚙️ I use daily: `.js`, `.vue`, `.html`, `.scss`, `.psd`
 - 💅 Designed: [nappsel.com](https://nappsel.com), [Fastmast Detailing](https://detailing.fastmast.ru), [Optstorg](https://optstorg.ru), etc…
 - 🌱 Learning all about **Web Dev**
 - 💬 Ping me about **design**, **branding**, **javascript**, **vuejs**, **development**, **design thinking**

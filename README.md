@@ -1,13 +1,13 @@
 ### Hi there ~ 👋🏼
 
-#### I'm a Frontend Developer working in Moscow, Russia. 🇷🇺
+#### I'm a Senior Frontend Developer working in Moscow, Russia. 🇷🇺
 
 ##### BIO
 
-- 🏢 I'm currently working at **PECOM LLC.**
+- 🏢 I'm currently working at **L'etoile Digital**
 - ⚙️ I use daily: `.js`, `.vue`, `.html`, `.scss`, `.psd`
-- 💅 Designed: [nappsel.com](https://nappsel.com), [Fastmast Detailing](https://detailing.fastmast.ru), [Optstorg](https://optstorg.ru), etc…
-- 🌱 Learning all about **Web Dev**
+- 💅 Designed: [nappsel.com](https://nappsel.com), [Pixelmon.PRO](https://pixelmon.pro), [Fastmast Detailing](https://detailing.fastmast.ru) and more on my website.
+- 🌱 Learning all about **Web Dev** and **Web Design**
 - 💬 Ping me about **design**, **branding**, **javascript**, **vuejs**, **development**, **design thinking**
 - 📫 Reach me: [me@nappsel.com](mailto:me@nappsel.com), [t.me/nappsel](https://t.me/nappsel)
 
